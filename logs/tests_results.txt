@@ -1,0 +1,12 @@
+test_crit (__main__.TestCharacter.test_crit) ... ok
+test_init (__main__.TestCharacter.test_init) ... ok
+test_name (__main__.TestCharacter.test_name) ... ok
+test_weapon (__main__.TestCharacter.test_weapon) ... ok
+test_init (__main__.TestWeapon.test_init) ... ok
+test_name (__main__.TestWeapon.test_name) ... ok
+test_unarmed (__main__.TestWeapon.test_unarmed) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.002s
+
+OK
